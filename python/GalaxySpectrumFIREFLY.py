@@ -1,6 +1,7 @@
 """
 .. moduleauthor:: Johan Comparat <johan.comparat__at__gmail.com>
 .. contributions:: Violeta Gonzalez-Perez <violegp__at__gmail.com>
+..                 Sofia Meneses-Goytia <s.menesesgoytia__at__gmail.com>
 
 *General purpose*:
 
